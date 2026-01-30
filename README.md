@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub-Blog Preview Card](https://github.com/stefanteichert/blog-review-card)
-- Live Site URL: [Vercel](https://blog-review-card-eight.vercel.app/)
+- Live Site URL: [Vercel](https://blog-preview-card-weld-psi.vercel.app/)
 
 ## My process
 
